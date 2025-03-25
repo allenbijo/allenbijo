@@ -1,7 +1,7 @@
 ### Hello there,
 <br />
 
-                                                                                
+```                                                                                
                                                                                 
                  #@&&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@&/.         /&,             
                   *&@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%@%. (%%& #%&           
@@ -31,6 +31,8 @@
         ((..........................................................*%          
         *((((###%%%%&&@@@@@@@@@@@@@&&&%%%####((((//****,,,,,......../#          
                                                                                 
+```
+
 I am a passionate student, interested in developing ML based applications that integrate seamlessly with people’s lives. I have the skills, the passion and the curiosity to learn new things and create solutions that can help people every day.
 
 Reach me on
